@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "481533798645",
+    "firebase_url": "https://com-dtsetr-flavor.firebaseio.com",
+    "project_id": "com-dtsetr-flavor",
+    "storage_bucket": "com-dtsetr-flavor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481533798645:android:63d3b2b97e6d36e8fafdbc",
+        "android_client_info": {
+          "package_name": "com.dtsetr.flavor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481533798645-fklftgao9p4vfq4bmgb0pbcrph55bnk2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dtsetr.flavor",
+            "certificate_hash": "528263d72f952928f6902749fa0876ac53f4b5bd"
+          }
+        },
+        {
+          "client_id": "481533798645-qe2uht4bg0c5ua73k2qc28fng2dsvg8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf5hXYUfzzkhKeHcnkjEL_LTUsqApN4co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481533798645-qe2uht4bg0c5ua73k2qc28fng2dsvg8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
